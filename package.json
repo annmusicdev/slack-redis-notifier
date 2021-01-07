@@ -1,0 +1,12 @@
+{
+  "name": "slack-redis-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:annmusicdev/slack-redis-notifier.git",
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "dependencies": {
+    "@bolajiolajide/utils": "^1.0.15",
+    "node-fetch": "^2.6.1"
+  }
+}
